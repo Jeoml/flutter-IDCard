@@ -2,7 +2,7 @@
 
 This ID card happens to be one of the projects which I upload to github as I learn Flutter.
 
-![image](https://github.com/user-attachments/assets/a20e99d9-80a0-43d9-b713-1a1176d9b884)
+![Screenshot 2024-08-17 170414](https://github.com/user-attachments/assets/e6610e79-a988-4240-9f21-cdffffe4413a)
 
 ## Getting Started
 
