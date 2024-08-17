@@ -1,16 +1,12 @@
-# ninja_id
+# Flutter ID Card
 
-Ninja ID application
+This ID card happens to be one of the projects which I upload to github as I learn Flutter.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Since I like OnePiece, I made this ID Card for a character from that Anime/Manga.
 
-A few resources to get you started if this is your first Flutter project:
+The application is probably the most basic yet a bit beautified version of flutter applications you can find out there in the internet.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+check out my blog at www.joelblogs.vercel.app
